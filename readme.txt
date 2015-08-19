@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 git tracks more.
 branch 
+feature1 master 
